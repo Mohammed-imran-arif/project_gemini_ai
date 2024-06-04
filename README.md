@@ -3,7 +3,7 @@ Welcome to my Gemini AI chat! This project showcases my skills, projects, and ex
 
 ### Weblink: [Live Website](https://clever-frangipane-afef7d.netlify.app/)
 
-<img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2016-39-10.png"/>
+<img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot from 2024-06-04 19-00-55.png"/>
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2018-09-49.png"/>
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2016-40-11.png"/>
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2018-09-35.png"/>
