@@ -9,6 +9,12 @@ Welcome to my Gemini AI chat! This project showcases my skills, projects, and ex
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2018-09-35.png"/>
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/gemini_photo/Screenshot%20from%202024-06-04%2018-24-53.png"/>
 
+## Technologies Used
+- React.js: A JavaScript library for building user interfaces, react hooks, react context.
+- HTML5 & CSS3: Markup and styling languages for building web pages.
+- JavaScript: A programming language for adding interactivity to web applications.
+- Git: A version control system for tracking changes and collaborating on projects.
+- GitHub Pages: A platform for hosting and deploying web applications.
 
 # React + Vite
 
