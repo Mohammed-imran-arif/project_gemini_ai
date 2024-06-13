@@ -1,5 +1,7 @@
 # My First Project Gemini_api
 Welcome to my Gemini AI chat! This project showcases my skills, projects, and experiences as a web developer.
+- Successfully created a fully functional Google Gemini AI App using React JS, integrating engaging features such as interactive UI, question-answer functionality, and sidebar collapse/expand functionality.
+- Seamlessly implemented the project utilizing React JS, CSS properties, HTML structure, and dynamic data management to deliver an interactive and responsive application, thereby showcasing proficiency in React JS, HTML, CSS, and API integration.
 
 ### Weblink: [Live Website](https://clever-frangipane-afef7d.netlify.app/)
 
